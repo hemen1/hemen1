@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hemen1
+- 👋 Hi, I’m Hemen Zandi.
 - 👀 I’m interested in AI/ML, and Python.
 - 🌱 I’m currently learning English.
 - 💞️ I’m looking to collaborate on math and AI tool boxes. 
-- 📫 How to reach me hemen.zandi@gmail.com.
+- 📫 How to reach me HemenZandi@gmail.com.
 
 <!---
 hemen1/hemen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
